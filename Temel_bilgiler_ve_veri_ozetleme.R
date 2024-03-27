@@ -1,3 +1,5 @@
+#Ayse Mustafaoglu Uysal
+
 #Temel Fonksiyonlar
 
 getwd()
